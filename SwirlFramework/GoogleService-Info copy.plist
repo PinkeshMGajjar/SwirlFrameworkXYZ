@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>379458465537-vnfja4fcg80h6o4peff3rnq6c1v4clb9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.379458465537-vnfja4fcg80h6o4peff3rnq6c1v4clb9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>379458465537-8svgnhq8q2o5p7l9sn4sgkhojdcnu220.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDkY6LYbcxYLsPHAG1MV6d3fzN8NuMSlIk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>379458465537</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.golive.swirl</string>
+	<key>PROJECT_ID</key>
+	<string>getnatty-1547727043139</string>
+	<key>STORAGE_BUCKET</key>
+	<string>getnatty-1547727043139.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:379458465537:ios:b49cd992c7fdc25d4f7500</string>
+	<key>DATABASE_URL</key>
+	<string>https://getnatty-1547727043139.firebaseio.com</string>
+</dict>
+</plist>
